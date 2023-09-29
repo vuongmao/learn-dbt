@@ -1,0 +1,10 @@
+name: learn-dbt
+channels:
+- conda-forge
+dependencies:
+- python=3.10
+- dbt-core
+- dbt-postgres
+- dbt-redshift
+- dbt-snowflake
+- dbt-bigquery

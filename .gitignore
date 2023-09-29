@@ -1,3 +1,6 @@
+# MACOS
+.DS_Store
+
 # DBT
 target/
 dbt_packages/
